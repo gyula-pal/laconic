@@ -7,12 +7,14 @@ Free and open source, about 8,000 lines of Kotlin + Jetpack Compose with about 3
 but there are no promises on timing, and it is tested mainly on a Pixel, so expect rough edges elsewhere.*
 
 <p>
-  <img src="docs/home.png" width="180" alt="Home screen: the weekday above a band between two lines with the next alarm, weather, date and Bitcoin price, the music player, then the pinned apps">
-  <img src="docs/scrub.png" width="180" alt="Holding the letter strip: letters slide out on stripes around the finger and the apps under O are listed">
+  <img src="docs/home.png" width="180" alt="Home screen: the weekday above a band between two lines with the temperature, the date and the S&amp;P 500, the next event under it, then the pinned apps with their icons, flashlight and camera in the bottom corners">
+  <img src="docs/scrub.png" width="180" alt="Holding the letter strip: the letters slide out around the finger, a bubble shows D and the apps under D are listed">
+  <img src="docs/boxes.png" width="180" alt="The boxes layout: app icons in five named boxes (Talk, Day, Play, Go, Tools) that tile the space under the clock, with only the lines between them drawn">
+  <img src="docs/search.png" width="180" alt="Search for anna: a contacts section with three people and call buttons, an events section with three calendar events, and a +1 more row">
   <img src="docs/shortcuts.png" width="180" alt="Maps swiped right, showing its Home and Work shortcuts">
+  <img src="docs/settings.png" width="180" alt="The settings panel with the Apps section open: layout, home list, order, and switches for icons and notification dots">
+  <img src="docs/colours.png" width="180" alt="Cream ink over a Japanese woodblock print of Mount Fuji as the wallpaper, apps in five narrow boxes with Japanese labels">
   <img src="docs/widgets.png" width="180" alt="A widget page beside home: an analogue clock and a stopwatch side by side, At a Glance below">
-  <img src="docs/picker.png" width="180" alt="Laconic's widget picker: widgets grouped by app, each with a preview and its size">
-  <img src="docs/settings.png" width="180" alt="The settings panel half-way up the screen with the Apps section open — home list, order, and switches for icons and notification dots — the clock still visible above it">
 </p>
 
 ## Features
