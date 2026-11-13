@@ -6,6 +6,8 @@ Free and open source, about 8,000 lines of Kotlin + Jetpack Compose with about 3
 *A personal project: I built it for my own phone (a Pixel) and use it every day. Bug reports and ideas are welcome,
 but there are no promises on timing, and it is tested mainly on a Pixel, so expect rough edges elsewhere.*
 
+https://github.com/user-attachments/assets/57b40291-d7a0-41c5-aae6-b227a7f36257
+
 <p>
   <img src="docs/home.png" width="180" alt="Home screen: the weekday above a band between two lines with the temperature, the date and the S&amp;P 500, the next event under it, then the pinned apps with their icons, flashlight and camera in the bottom corners">
   <img src="docs/scrub.png" width="180" alt="Holding the letter strip: the letters slide out around the finger, a bubble shows D and the apps under D are listed">
