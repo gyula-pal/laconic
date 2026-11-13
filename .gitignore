@@ -1,0 +1,12 @@
+.gradle/
+build/
+app/build/
+local.properties
+*.apk
+
+# Roborazzi writes these beside a reference image when it no longer matches
+*_actual.png
+*_compare.png
+
+# Claude Code worktrees
+.claude/

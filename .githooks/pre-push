@@ -1,0 +1,5 @@
+#!/bin/sh
+# Runs ./gradlew check (lint, warnings, unit + screenshot tests) before a push; git push --no-verify skips it.
+cd "$(git rev-parse --show-toplevel)" || exit 1
+[ -z "$JAVA_HOME" ] && for j in "$HOME"/.local/opt/jdk-17*; do [ -d "$j" ] && export JAVA_HOME="$j"; done
+./gradlew --console=plain -q check || { echo "pre-push: ./gradlew check failed, nothing pushed." >&2; exit 1; }
